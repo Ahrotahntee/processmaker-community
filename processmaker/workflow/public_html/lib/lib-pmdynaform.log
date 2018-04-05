@@ -1,0 +1,30 @@
+[12 days ago] e61bba5  FBI-1960: CLONE 3.2.1- [Mantis - 23029] Date field with format DD-MM-YYYY inverts the day and month <Rodrigo Quelca>
+[4 weeks ago] 17fb3ad  FBI-1926: Dropdown Dependent Field in view mode does not work <alex>
+[4 weeks ago] 985752d  FBI-1925: Fix issue related with Suggest field <duhnnie>
+[4 weeks ago] 0a2c208  FBI-1921: [FORM] SetOnchange funciton does not works <Rodrigo Quelca>
+[5 weeks ago] df1a988  resolve observations <alex>
+[5 weeks ago] a11f64b  FBI-1912: Checkboxis not refreshing correctly the value of the checkbox after we add more than one row <alex>
+[5 weeks ago] 344bf1f  FBI-1876: [MOBILE] the check-box inside of a grid control show true when it were did not checked <Rodrigo Quelca>
+[6 weeks ago] f749588  FBI-1878 <duhnnie>
+[6 weeks ago] bccda5b  FBI-1880: new helper getFields <duhnnie>
+[6 weeks ago] 2714638  FBI-1889: setOnchange() helper doesn't work on checkbox field <alex>
+[7 weeks ago] a22b9b4  FBI-1877 <alex>
+[7 weeks ago] 3f4b0d5  FBI-1876: [MOBILE] the check-box inside of a grid control show true when it were didnt checked <Rodrigo Quelca>
+[7 weeks ago] 4b53193  FBI-1875: It is not possible to open a dynaform with a Text field in View mode <Rodrigo Quelca>
+[7 weeks ago] 815164d  FBI-1862: Dependent Field value not updated when more than one dependency <alex_santos>
+[7 weeks ago] bd51486  FBI-1838: AddRow() method is adding empty rows when populating values in the grid row in Mobile. <Rodrigo Quelca>
+[7 weeks ago] 19f347f  FBI-1848: getInfo function not working on mobile <alex_santos>
+[7 weeks ago] ca0c09c  FBI-1856: Print button in summary form with complete cases is showing error <alex_santos>
+[8 weeks ago] e2353b0  FBI-1852: We are unable to populate links inside Grids via trigger <alex_santos>
+[8 weeks ago] cdcc28f  FBI-1842: Labels in dynaforms are cut - 3.2 <alex_santos>
+[8 weeks ago] 83436a2  resolve cherry pick conflicts <alex_santos>
+[9 weeks ago] 33a35ec  FBI-1845: [Zendesk 4786] Click event of button field with submit form method is affecting submit buttons <Rodrigo Quelca>
+[3 months ago] ce576e9  FBI-1746: (pmDynaform) the setOnchange helper is not executed after its dependent field was changed <alex_santos>
+[4 months ago] c62a721  bugfix/FBI-1679 <jonathanquispe>
+[4 months ago] 648443a  bugfix/FBI-1673 <jonathanquispe>
+[4 months ago] eb8d4db  bugfix/FBI-1674 <jonathanquispe>
+[4 months ago] 6e7b0c6  bugfix/FBI-1665 <jonathanquispe>
+[4 months ago] 94bb8be  FBI-1622: [Mobile] The File control does not works, when required property is activate <alex_santos>
+[4 months ago] 33b9cca  suggest validate has been implemented in onchange method <Rodrigo Quelca>
+[4 months ago] ce16542  validate form <Rodrigo Quelca>
+[4 months ago] 4feeb7a  enable validatiens in edit mode <Rodrigo Quelca>
